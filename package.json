@@ -2,6 +2,7 @@
     "name": "deuteranomaly-uli",
     "displayName": "Deuteranomaly Uli",
     "description": "deuteranomaly color blind friendly Color Theme",
+    "publisher": "jusstice",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.57.0"
@@ -17,5 +18,9 @@
                 "path": "./themes/Deuteranomaly Uli-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jusstise/deuteranomaly"
     }
 }
