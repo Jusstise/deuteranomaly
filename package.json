@@ -1,0 +1,21 @@
+{
+    "name": "deuteranomaly-uli",
+    "displayName": "Deuteranomaly Uli",
+    "description": "deuteranomaly color blind friendly Color Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Deuteranomaly Uli",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Deuteranomaly Uli-color-theme.json"
+            }
+        ]
+    }
+}
